@@ -1,0 +1,29 @@
+td {
+
+  	text-align: center;
+  	font-family: Arial;
+  	font-size: 20px;
+}
+th{
+    border: 1px solid;
+  	padding-left:  25px;
+  	padding-right: 25px;
+  	text-align: center;
+  	font-family: Arial;
+  	font-size: 20px;  	
+}
+
+td a{
+	display: block;
+	text-decoration: none;
+	color:inherit;
+}
+
+
+
+.dark{
+	background: grey;
+	color: white;
+	border: black;
+	margin: 25px 40px;
+}
